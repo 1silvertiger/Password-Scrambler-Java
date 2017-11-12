@@ -17,6 +17,7 @@ public class Ascii {
         usable = false;
     }
     //adding a test change from InteliJ IDE to test VCS
+    //Testing again...
 
     public int getAsciiCode() {
         return asciiCode;
